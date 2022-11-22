@@ -1,2 +1,2 @@
 # rsschool-cv
-https://DirexK.github.io/rsschool-cv/cv
+https://DirexK.github.io/rsschool-cv/
